@@ -1,6 +1,6 @@
 
 
-FILES=".vim .zshrc .vimrc"
+FILES=".vim .zshrc .vimrc .oh-my-zsh"
 
 DEST=$1
 
